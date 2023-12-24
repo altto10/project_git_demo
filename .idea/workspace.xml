@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b028c3d-44c3-475f-a48a-ddc37c984640" name="Changes" comment="first / second commit">
-      <change afterPath="$PROJECT_DIR$/branch1.py" afterDir="false" />
-    </list>
+    <list default="true" id="3b028c3d-44c3-475f-a48a-ddc37c984640" name="Changes" comment="first / second commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +49,9 @@
         <option name="url" value="git@github.com:altto10/project_git_demo.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -137,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first / second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first / second commit" />
+    <MESSAGE value="added branch1.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added branch1.py" />
   </component>
 </project>
